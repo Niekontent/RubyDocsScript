@@ -7,10 +7,15 @@
 4. run `ruby ScriptService.rb` and follow instructions from console
 
 5. in _ExecuteScript.rb_ set variables such as:
+
     FOLDER_ID - ID of Google Drive folder where destination file will be created
+    
     DOC_FILE_ID - ID of existing doc file
+    
     TEXT_TO_REPLACE - text you wish to be replaced
+    
     NEW_TEXT - your new text
+    
     SCRIPT_ID - ID of added script
     
 6. run `ruby ExecuteScript.rb`
